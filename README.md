@@ -14,3 +14,4 @@
   :blue_heart:
   :innocent:
   :joy:
+[CLI commands](docs/cli.md)
